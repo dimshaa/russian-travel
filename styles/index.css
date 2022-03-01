@@ -2,6 +2,7 @@
 @import url(../vendor/fonts.css);
 
 @import url(../blocks/centered-block/centered-block.css);
+@import url(../blocks/link-hover/link-hover.css);
 
 @import url(../blocks/page/page.css);
 
