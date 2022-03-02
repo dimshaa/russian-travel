@@ -6,3 +6,11 @@
   line-height: 22px;
   position: relative;
 }
+
+@media (max-width: 767px) {
+  .cover__subtitle {
+    max-width: 264px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+}

@@ -9,3 +9,11 @@
   position: relative;
 }
 
+@media (max-width: 767px) {
+  .cover__title {
+    margin-bottom: 16px;
+    max-width: 250px;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}

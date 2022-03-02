@@ -10,3 +10,11 @@
     padding-right: 24px;
   }
 }
+
+@media (max-width: 767px) {
+  .footer {
+    padding-left: 16px;
+    padding-right: 16px;
+    flex-direction: column;
+  }
+}
